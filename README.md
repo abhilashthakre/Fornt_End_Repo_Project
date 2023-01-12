@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProjectSmallBusinessFinance
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Fornt_End_Repo_Project
+>>>>>>> 3b25638ab9b9fb27b8a4b5760a9d6054c4a2698c
